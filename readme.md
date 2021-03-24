@@ -1,5 +1,2 @@
-Intents
-==========================
-##TASK1 & TASK 2
-<img height="700" width="50%" src="screenshot/hm1.png"><br>
-<img height="700" width="50%" src="screenshot/hm2.png"><br>
+![hm2](https://user-images.githubusercontent.com/32532393/112281120-d07cc200-8cad-11eb-9159-1339dc37d786.png)
+![hm1](https://user-images.githubusercontent.com/32532393/112281124-d1adef00-8cad-11eb-9995-574f8be41851.png)
